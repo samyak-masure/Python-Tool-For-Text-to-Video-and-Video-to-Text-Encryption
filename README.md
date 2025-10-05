@@ -1,12 +1,11 @@
 # About this project on encryption techniques using python
 
-💡 Overview
-
 This project is about building simple encryption and decryption tools in Python.
 It lets you hide a secret message inside a video or image using the encoder and later reveal it with the decoder.
 The whole thing runs through an easy and minimal GUI made with Tkinter.
 
-✨ Features
+
+Features -
 
 1. Encoder Module
 
